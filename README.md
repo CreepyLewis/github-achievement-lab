@@ -10,3 +10,4 @@ gg
 fff
 Test co-author commit 1
 Test co-author commit 2
+Test co-author commit 3
