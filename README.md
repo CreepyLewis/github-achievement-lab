@@ -14,7 +14,6 @@ Test co-author commit 3
 B13
 
 ---
-
 <!-- 🔥 MATRIX SCAN LINE EFFECT -->
 <p align="center">
   <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%">
