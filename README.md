@@ -1,5 +1,10 @@
 # 🏆 GitHub Achievement Lab
 
+
+
+
+
+
 > A complete guide to earning every GitHub achievement — from beginner to platinum!
 
 ![GitHub stars](https://img.shields.io/github/stars/CreepyLewis/github-achievement-lab?style=social)
