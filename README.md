@@ -16,7 +16,6 @@ This repo is a step-by-step lab for earning GitHub achievements. Whether you're 
 
 
 
-
 ## 🎯 All GitHub Achievements
 
 | Achievement | Description | Difficulty | Max Tier |
