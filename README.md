@@ -12,6 +12,7 @@
 
 This repo is a step-by-step lab for earning GitHub achievements. Whether you're just starting out or going for platinum tiers — this guide has you covered!
 
+
 ---
 
 ## 🎯 All GitHub Achievements
